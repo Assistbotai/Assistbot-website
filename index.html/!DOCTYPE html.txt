@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AssistBot - AI Chatbot</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to AssistBot</h1>
+    <p>Your all-in-one AI chatbot solution for businesses.</p>
+  </header>
+
+  <section>
+    <h2>Pricing Plans</h2>
+    <ul>
+      <li>
+        <h3>Basic Plan</h3>
+        <p>£11.99/month</p>
+        <p>Includes: Order tracking, FAQ responses</p>
+      </li>
+      <li>
+        <h3>Growth Plan</h3>
+        <p>£20.99/month</p>
+        <p>Includes: All Basic features + Appointment scheduling, Analytics Dashboard</p>
+      </li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>© 2025 AssistBot. All rights reserved.</p>
+  </footer>
+</body>
+</html>
